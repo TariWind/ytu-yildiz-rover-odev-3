@@ -1,0 +1,16 @@
+names:
+- '3'
+- Stop-sign
+- Stop-signs
+- stop
+- stop sign
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: stop-sign-ocamr
+  url: https://universe.roboflow.com/stardust/stop-sign-ocamr/dataset/1
+  version: 1
+  workspace: stardust
+test: ../test/images
+train: ../train/images
+val: ../valid/images
